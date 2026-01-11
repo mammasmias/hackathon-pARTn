@@ -2,3 +2,10 @@
 title = "hackathon-pARTn"
 authors = ["mgoonde"]
 language = "en"
+
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
+git-repository-url = "https://github.com/mammasmias/hackathon-pARTn"
+git-repository-icon = "fab-github"
+smart-punctuation = false
