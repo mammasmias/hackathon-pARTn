@@ -2,6 +2,6 @@
 
 [Introduction](./intro.md)
 [Program](./program.md)
-[Location]()
-[Register]()
+[Location](./location.md)
+[Register](./registration.md)
 [Participants](./participants.md)
