@@ -11,9 +11,9 @@ Register [here](./registration.md).
 
 ### ARTn algorithm
 
-The Activation-Relaxation Technique nouveau (ARTn) is an algorithm for open-ended search of saddle points of a Potential Energy Surface (PES).
+The Activation-Relaxation Technique nouveau (ARTn) is an algorithm for open-ended search of saddle points of Potential Energy Surfaces (PES) of atomic systems.
 
-ARTn uses the information on local curvature of the PES, to determine a direction of lowest negative curvature.
+ARTn uses the information of local curvature of the PES, to determine a direction of lowest negative curvature.
 The atomic system is pushed uphill along that direction, while minimized in all other directions.
 After a number of such steps, the system converges to a saddle point of the PES.
 
@@ -31,7 +31,7 @@ The interoperability with C is also used to define a python interface ``pypARTn`
 The idea of this hackathon is to go into the very details of pARTn, and attempt to address some issues, or improve on some specifics, or even just apply the code to a particular set of problems.
 
 The first day there will be some talks, going from fairly broad introductory, to narrowing down to the details of pARTn algorithm, and code.
-Then, some potential project topics would be presented, which could be picked up by any working group, or just serve as foundation ideas for other ideas.
+Then, some potential project topics will be presented, which can be picked up by any working group, or just serve as foundation ideas for other projects.
 
 On the second and third day, the participants wll split into voluntary working groups, each addressing their own chosen problem/project, or any other problem/project they could come up with.
 
