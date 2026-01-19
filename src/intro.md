@@ -23,7 +23,7 @@ The plugin-ARTn (pARTn) is an implementation of ARTn as a plugin, i.e. an explic
 
 Git [repository](https://gitlab.com/mammasmias/artn-plugin), and online [documentation](https://mammasmias.gitlab.io/artn-plugin/) are available.
 
-pARTn is written in modern Fortran, and is interoperable with C through the ``iso_c_binding`` module, and ``bind(C)`` directives.
+pARTn is written in modern Fortran, and is interoperable with C through the intrinsic ``iso_c_binding`` module, and ``bind(C)`` directives.
 The interoperability with C is also used to define a python interface ``pypARTn``, and can be used to call pARTn from other languages, i.e. lua.
 
 ### Hackathon!
@@ -42,10 +42,10 @@ Any potentially interesting work can continue developing after the event, possib
 Currently some ideas for problems/projects to address are:
 
 - defining benchmarks (i.e. [OptBench](https://optbench.org/) integration, expansion of systems, etc.);
-- addressing the soft modes appearing from Lanczos diagonalization: detection, and removal. Possible algorithm branching;
-- general way to add custom "modifiers": such as freezing atoms only during particular block of ARTn, etc.
 - interfacing into [eOn](https://eondocs.org/);
 - can the code execute when on GPU? and/or how to make that possible?
+- addressing the soft modes appearing from Lanczos diagonalization: detection, and removal. Possible algorithm branching;
+- general way to add custom "modifiers": such as freezing atoms only during particular block of ARTn, etc.
 - application to any system a participant might bring up;
 - ...
 
