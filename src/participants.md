@@ -19,5 +19,7 @@
 
 ## Participants
 <pre>
+* Liam Smyth             (Queen’s University, Kingston, Ontario, Canada);
+* Eugène Sanscartier     (Université de Montréal, Montréal, Québec, Canada);
 </pre>
 
