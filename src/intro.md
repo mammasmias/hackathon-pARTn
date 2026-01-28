@@ -33,7 +33,7 @@ The idea of this hackathon is to go into the very details of pARTn, and attempt 
 The first day there will be some talks, going from fairly broad introductory, to narrowing down to the details of pARTn algorithm, and code.
 Then, some potential project topics will be presented, which can be picked up by any working group, or just serve as foundation ideas for other projects.
 
-On the second and third day, the participants wll split into voluntary working groups, each addressing their own chosen problem/project, or any other problem/project they could come up with.
+On the second and third day, the participants will split into voluntary working groups, each addressing their own chosen problem/project, or any other problem/project they could come up with.
 
 Any potentially interesting work can continue developing after the event, possibly turning into a joint publication.
 
