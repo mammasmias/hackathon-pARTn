@@ -8,7 +8,7 @@
 
 ## Invited
 <pre>
-* Matic Poberžnik        (Institute Jožef Štefan, Ljubljana, Slovenia);
+* Matic Poberžnik        (Institute Jožef Stefan, Ljubljana, Slovenia);
 * Antoine Jay            (LAAS-CNRS, Toulouse, France);
 * Anne Hémeryck          (LAAS-CNRS, Toulouse, France);
 * Nicolas Salles         (CNR-IOM/SISSA, Trieste, Italy);
@@ -21,5 +21,7 @@
 <pre>
 * Liam Smyth             (Queen’s University, Kingston, Ontario, Canada);
 * Eugène Sanscartier     (Université de Montréal, Montréal, Québec, Canada);
+* Ivor Lončarić          (Institute Ruđer Bošković, Zagreb, Croatia);
+* Ivana Podlipnik        (Institute Jožef Stefan, Ljubljana, Slovenia);
 </pre>
 
