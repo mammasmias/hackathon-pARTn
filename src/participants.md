@@ -12,7 +12,7 @@
 * Antoine Jay             (LAAS-CNRS, Toulouse, France);
 * Nicolas Salles          (CNR-IOM/SISSA, Trieste, Italy);
 * Layla Martin-Samos      (CNR-IOM/SISSA, Trieste, Italy);
-* Gabriela Herrero-Saboya (LAAS-CNRS, Toulouse, France);
+* Gabriela Herrero-Saboya (CNR-IOM/SISSA, Trieste, Italy);
 * Rohit Goswami           (LabCOSMO-EPFL, Lausanne, Switzerland);
 * Alejandro Peña Torres   (University of Iceland, Reykjavík, Iceland);
 </pre>
