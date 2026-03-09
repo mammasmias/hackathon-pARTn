@@ -24,5 +24,6 @@
 * Ivor Lončarić           (Institute Ruđer Bošković, Zagreb, Croatia);
 * Ivana Podlipnik         (Institute Jožef Stefan, Ljubljana, Slovenia);
 * Arezou Farajollahzadeh  (University of Zanjan, Zanjan, Iran);
+* Joe Rayner              (Institute Ruđer Bošković, Zagreb, Croatia);
 </pre>
 
